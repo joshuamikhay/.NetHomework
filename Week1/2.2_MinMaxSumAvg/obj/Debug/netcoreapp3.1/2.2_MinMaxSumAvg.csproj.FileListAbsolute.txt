@@ -1,0 +1,11 @@
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.2_MinMaxSumAvg\bin\Debug\netcoreapp3.1\2.2_MinMaxSumAvg.exe
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.2_MinMaxSumAvg\bin\Debug\netcoreapp3.1\2.2_MinMaxSumAvg.deps.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.2_MinMaxSumAvg\bin\Debug\netcoreapp3.1\2.2_MinMaxSumAvg.runtimeconfig.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.2_MinMaxSumAvg\bin\Debug\netcoreapp3.1\2.2_MinMaxSumAvg.runtimeconfig.dev.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.2_MinMaxSumAvg\bin\Debug\netcoreapp3.1\2.2_MinMaxSumAvg.dll
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.2_MinMaxSumAvg\bin\Debug\netcoreapp3.1\2.2_MinMaxSumAvg.pdb
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.2_MinMaxSumAvg\obj\Debug\netcoreapp3.1\2.2_MinMaxSumAvg.csprojAssemblyReference.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.2_MinMaxSumAvg\obj\Debug\netcoreapp3.1\2.2_MinMaxSumAvg.AssemblyInfoInputs.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.2_MinMaxSumAvg\obj\Debug\netcoreapp3.1\2.2_MinMaxSumAvg.AssemblyInfo.cs
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.2_MinMaxSumAvg\obj\Debug\netcoreapp3.1\2.2_MinMaxSumAvg.dll
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.2_MinMaxSumAvg\obj\Debug\netcoreapp3.1\2.2_MinMaxSumAvg.pdb

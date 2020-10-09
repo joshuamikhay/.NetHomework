@@ -1,0 +1,11 @@
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.3_EratosthenesAlgorithm\bin\Debug\netcoreapp3.1\2.3_EratosthenesAlgorithm.exe
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.3_EratosthenesAlgorithm\bin\Debug\netcoreapp3.1\2.3_EratosthenesAlgorithm.deps.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.3_EratosthenesAlgorithm\bin\Debug\netcoreapp3.1\2.3_EratosthenesAlgorithm.runtimeconfig.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.3_EratosthenesAlgorithm\bin\Debug\netcoreapp3.1\2.3_EratosthenesAlgorithm.runtimeconfig.dev.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.3_EratosthenesAlgorithm\bin\Debug\netcoreapp3.1\2.3_EratosthenesAlgorithm.dll
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.3_EratosthenesAlgorithm\bin\Debug\netcoreapp3.1\2.3_EratosthenesAlgorithm.pdb
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.3_EratosthenesAlgorithm\obj\Debug\netcoreapp3.1\2.3_EratosthenesAlgorithm.csprojAssemblyReference.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.3_EratosthenesAlgorithm\obj\Debug\netcoreapp3.1\2.3_EratosthenesAlgorithm.AssemblyInfoInputs.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.3_EratosthenesAlgorithm\obj\Debug\netcoreapp3.1\2.3_EratosthenesAlgorithm.AssemblyInfo.cs
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.3_EratosthenesAlgorithm\obj\Debug\netcoreapp3.1\2.3_EratosthenesAlgorithm.dll
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.3_EratosthenesAlgorithm\obj\Debug\netcoreapp3.1\2.3_EratosthenesAlgorithm.pdb
