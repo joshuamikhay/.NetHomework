@@ -1,0 +1,11 @@
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.2_RandomAreaCounter\bin\Debug\netcoreapp3.1\2.2_RandomAreaCounter.exe
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.2_RandomAreaCounter\bin\Debug\netcoreapp3.1\2.2_RandomAreaCounter.deps.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.2_RandomAreaCounter\bin\Debug\netcoreapp3.1\2.2_RandomAreaCounter.runtimeconfig.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.2_RandomAreaCounter\bin\Debug\netcoreapp3.1\2.2_RandomAreaCounter.runtimeconfig.dev.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.2_RandomAreaCounter\bin\Debug\netcoreapp3.1\2.2_RandomAreaCounter.dll
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.2_RandomAreaCounter\bin\Debug\netcoreapp3.1\2.2_RandomAreaCounter.pdb
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.2_RandomAreaCounter\obj\Debug\netcoreapp3.1\2.2_RandomAreaCounter.csprojAssemblyReference.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.2_RandomAreaCounter\obj\Debug\netcoreapp3.1\2.2_RandomAreaCounter.AssemblyInfoInputs.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.2_RandomAreaCounter\obj\Debug\netcoreapp3.1\2.2_RandomAreaCounter.AssemblyInfo.cs
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.2_RandomAreaCounter\obj\Debug\netcoreapp3.1\2.2_RandomAreaCounter.dll
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.2_RandomAreaCounter\obj\Debug\netcoreapp3.1\2.2_RandomAreaCounter.pdb

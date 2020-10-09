@@ -1,0 +1,11 @@
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.1_ShapeAreaCounter\bin\Debug\netcoreapp3.1\2.1_ShapeAreaCounter.exe
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.1_ShapeAreaCounter\bin\Debug\netcoreapp3.1\2.1_ShapeAreaCounter.deps.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.1_ShapeAreaCounter\bin\Debug\netcoreapp3.1\2.1_ShapeAreaCounter.runtimeconfig.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.1_ShapeAreaCounter\bin\Debug\netcoreapp3.1\2.1_ShapeAreaCounter.runtimeconfig.dev.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.1_ShapeAreaCounter\bin\Debug\netcoreapp3.1\2.1_ShapeAreaCounter.dll
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.1_ShapeAreaCounter\bin\Debug\netcoreapp3.1\2.1_ShapeAreaCounter.pdb
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.1_ShapeAreaCounter\obj\Debug\netcoreapp3.1\2.1_ShapeAreaCounter.csprojAssemblyReference.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.1_ShapeAreaCounter\obj\Debug\netcoreapp3.1\2.1_ShapeAreaCounter.AssemblyInfoInputs.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.1_ShapeAreaCounter\obj\Debug\netcoreapp3.1\2.1_ShapeAreaCounter.AssemblyInfo.cs
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.1_ShapeAreaCounter\obj\Debug\netcoreapp3.1\2.1_ShapeAreaCounter.dll
+D:\Wuda Belajar 大三上\。net\作业和实验\Week2_Experiments\2.1_ShapeAreaCounter\obj\Debug\netcoreapp3.1\2.1_ShapeAreaCounter.pdb
