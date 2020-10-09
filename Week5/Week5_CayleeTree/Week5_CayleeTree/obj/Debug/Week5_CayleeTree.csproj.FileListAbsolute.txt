@@ -1,0 +1,9 @@
+D:\Wuda Belajar 大三上\。net\作业和实验\Week5_CayleeTree\Week5_CayleeTree\bin\Debug\Week5_CayleeTree.exe.config
+D:\Wuda Belajar 大三上\。net\作业和实验\Week5_CayleeTree\Week5_CayleeTree\bin\Debug\Week5_CayleeTree.exe
+D:\Wuda Belajar 大三上\。net\作业和实验\Week5_CayleeTree\Week5_CayleeTree\bin\Debug\Week5_CayleeTree.pdb
+D:\Wuda Belajar 大三上\。net\作业和实验\Week5_CayleeTree\Week5_CayleeTree\obj\Debug\Week5_CayleeTree.csprojAssemblyReference.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week5_CayleeTree\Week5_CayleeTree\obj\Debug\Week5_CayleeTree.Form1.resources
+D:\Wuda Belajar 大三上\。net\作业和实验\Week5_CayleeTree\Week5_CayleeTree\obj\Debug\Week5_CayleeTree.Properties.Resources.resources
+D:\Wuda Belajar 大三上\。net\作业和实验\Week5_CayleeTree\Week5_CayleeTree\obj\Debug\Week5_CayleeTree.csproj.GenerateResource.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week5_CayleeTree\Week5_CayleeTree\obj\Debug\Week5_CayleeTree.exe
+D:\Wuda Belajar 大三上\。net\作业和实验\Week5_CayleeTree\Week5_CayleeTree\obj\Debug\Week5_CayleeTree.pdb
