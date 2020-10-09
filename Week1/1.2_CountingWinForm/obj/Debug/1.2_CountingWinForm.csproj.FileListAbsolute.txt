@@ -1,0 +1,9 @@
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CountingWinForm\bin\Debug\1.2_CountingWinForm.exe.config
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CountingWinForm\bin\Debug\1.2_CountingWinForm.exe
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CountingWinForm\bin\Debug\1.2_CountingWinForm.pdb
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CountingWinForm\obj\Debug\1.2_CountingWinForm.csprojAssemblyReference.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CountingWinForm\obj\Debug\_1._2_CountingWinForm.Form1.resources
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CountingWinForm\obj\Debug\_1._2_CountingWinForm.Properties.Resources.resources
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CountingWinForm\obj\Debug\1.2_CountingWinForm.csproj.GenerateResource.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CountingWinForm\obj\Debug\1.2_CountingWinForm.exe
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CountingWinForm\obj\Debug\1.2_CountingWinForm.pdb

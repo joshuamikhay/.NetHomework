@@ -1,0 +1,9 @@
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CalculationWinForm\bin\Debug\1.2_CalculationWinForm.exe.config
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CalculationWinForm\bin\Debug\1.2_CalculationWinForm.exe
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CalculationWinForm\bin\Debug\1.2_CalculationWinForm.pdb
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CalculationWinForm\obj\Debug\1.2_CalculationWinForm.csprojAssemblyReference.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CalculationWinForm\obj\Debug\_1._2_CalculationWinForm.Form1.resources
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CalculationWinForm\obj\Debug\_1._2_CalculationWinForm.Properties.Resources.resources
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CalculationWinForm\obj\Debug\1.2_CalculationWinForm.csproj.GenerateResource.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CalculationWinForm\obj\Debug\1.2_CalculationWinForm.exe
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.2_CalculationWinForm\obj\Debug\1.2_CalculationWinForm.pdb

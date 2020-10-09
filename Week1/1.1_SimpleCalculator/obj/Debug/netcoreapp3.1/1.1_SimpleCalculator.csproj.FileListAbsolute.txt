@@ -1,0 +1,11 @@
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.1_SimpleCalculator\bin\Debug\netcoreapp3.1\1.1_SimpleCalculator.exe
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.1_SimpleCalculator\bin\Debug\netcoreapp3.1\1.1_SimpleCalculator.deps.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.1_SimpleCalculator\bin\Debug\netcoreapp3.1\1.1_SimpleCalculator.runtimeconfig.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.1_SimpleCalculator\bin\Debug\netcoreapp3.1\1.1_SimpleCalculator.runtimeconfig.dev.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.1_SimpleCalculator\bin\Debug\netcoreapp3.1\1.1_SimpleCalculator.dll
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.1_SimpleCalculator\bin\Debug\netcoreapp3.1\1.1_SimpleCalculator.pdb
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.1_SimpleCalculator\obj\Debug\netcoreapp3.1\1.1_SimpleCalculator.csprojAssemblyReference.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.1_SimpleCalculator\obj\Debug\netcoreapp3.1\1.1_SimpleCalculator.AssemblyInfoInputs.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.1_SimpleCalculator\obj\Debug\netcoreapp3.1\1.1_SimpleCalculator.AssemblyInfo.cs
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.1_SimpleCalculator\obj\Debug\netcoreapp3.1\1.1_SimpleCalculator.dll
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\1.1_SimpleCalculator\obj\Debug\netcoreapp3.1\1.1_SimpleCalculator.pdb

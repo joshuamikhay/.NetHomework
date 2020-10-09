@@ -1,0 +1,10 @@
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.1_PrimeNumber\bin\Debug\netcoreapp3.1\2.1_PrimeNumber.exe
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.1_PrimeNumber\bin\Debug\netcoreapp3.1\2.1_PrimeNumber.deps.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.1_PrimeNumber\bin\Debug\netcoreapp3.1\2.1_PrimeNumber.runtimeconfig.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.1_PrimeNumber\bin\Debug\netcoreapp3.1\2.1_PrimeNumber.runtimeconfig.dev.json
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.1_PrimeNumber\bin\Debug\netcoreapp3.1\2.1_PrimeNumber.dll
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.1_PrimeNumber\bin\Debug\netcoreapp3.1\2.1_PrimeNumber.pdb
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.1_PrimeNumber\obj\Debug\netcoreapp3.1\2.1_PrimeNumber.AssemblyInfoInputs.cache
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.1_PrimeNumber\obj\Debug\netcoreapp3.1\2.1_PrimeNumber.AssemblyInfo.cs
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.1_PrimeNumber\obj\Debug\netcoreapp3.1\2.1_PrimeNumber.dll
+D:\Wuda Belajar 大三上\。net\作业和实验\Week1_Experiments\ConsoleApp1\2.1_PrimeNumber\obj\Debug\netcoreapp3.1\2.1_PrimeNumber.pdb
